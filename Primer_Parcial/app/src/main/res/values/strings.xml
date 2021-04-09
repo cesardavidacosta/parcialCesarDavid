@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Primer_Parcial</string>
+    <string-array name="spConsultas">
+        <item>Seleccione su consulta</item>
+        <item>Los 10 productos mas costosos</item>
+        <item> Los 10 productos menos costos</item>
+        <item>Promedio del valor de los productos</item>
+    </string-array>
+</resources>
